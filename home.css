@@ -36,7 +36,7 @@ body {
     top: 30px;
     right: 50px;
     opacity: 0;
-    animation: fadeIn 1s 4s ease-out forwards; /* Adjust the delay to start after rectangle-content */
+    animation: fadeIn 1s 3s ease-out forwards; /* Adjust the delay to start after rectangle-content */
     z-index: 2;
 }
 
